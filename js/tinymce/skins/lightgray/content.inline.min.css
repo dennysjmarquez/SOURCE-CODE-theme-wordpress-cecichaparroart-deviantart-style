@@ -1,0 +1,102 @@
+.bb{
+	background: url('fondo.svg');
+	
+}
+
+img#emoca, img.wp-smiley{
+	height: auto !important;
+	max-height:22px !important;
+	max-width:22px !important;
+	margin-left:2px;
+	margin-right:2px;
+}
+
+.saicl-comment-content {
+	min-height: 76px;
+	padding: 8px;
+	border-radius: 5px 5px 0px 0px;
+	border-width: 1px 1px 0px;
+	border-color: #CCC #CCC -moz-use-
+	border-width: 1px 1px 0px;
+	background: url('gradie4.svg');
+	font-family: Verdana,sans-serif;
+	
+}
+
+.saicl-comment-info {
+	overflow:hidden;
+	line-height:32px;
+	border-top: 1px solid rgb(233, 233, 233) !important;
+	border-radius: 0px 0px 5px 5px;
+	box-shadow: 0px 2px 3px #000;
+	background: url('images/bgco.gif') repeat-x scroll left bottom #FAFAFA;
+	border-bottom: 1px solid #CCC;
+	border-right: 1px solid #CCC;
+	border-left: 1px solid #CCC;
+	
+}
+
+.saicl-comment-info-contenedor{
+margin-left:10px;
+margin-right:10px;
+}
+
+.saicl-comment-info span.saicl-commenter-name {
+	color: #2F6CB0;
+	font-size:12px;
+	font-weight:bold;
+	text-decoration:none !important;
+	font-family:Arial, Helvetica, sans-serif;
+}
+
+.saicl-comment-text blockquote {
+    margin: 1em 0px 1em 1em;
+    padding: 0.6em;
+    border-left: 5px solid #AAA;
+}
+
+.saicl-comment-time {
+	font-size:11px;
+	color:#9DA8B7;
+	font-family:Arial, Helvetica, sans-serif;
+	padding-left:6px;
+}
+
+.saicl-comment-info-respon{
+float: right;
+}
+
+.saicl-comment-info a.saicl-reply-link {
+	color: #F7672F;
+	font-size:12px;
+	font-weight:bold;
+	text-decoration:none !important;
+	font-family:Arial, Helvetica, sans-serif;
+}
+
+.saicl-comment-info a.saicl-reply-link:hover {
+	color: #000;
+}
+
+.saicl-comment-text {
+	display:block;
+	line-height:0px;
+	font-size: 9pt;
+	font-family: Verdana,sans-serif;
+	color: #000;	
+	max-width:680px;
+
+
+}
+
+
+
+.saicl-comment-right {
+	position:relative;
+	margin-left:87px;
+}
+
+
+.mce-object{border:1px dotted #3A3A3A;background:#d5d5d5 url(img/object.gif) no-repeat center}.mce-pagebreak{cursor:default;display:block;border:0;width:100%;height:5px;border:1px dashed #666;margin-top:15px;page-break-before:always}@media print{.mce-pagebreak{border:0px}}.mce-item-anchor{cursor:default;display:inline-block;-webkit-user-select:all;-webkit-user-modify:read-only;-moz-user-select:all;-moz-user-modify:read-only;user-select:all;user-modify:read-only;width:9px !important;height:9px !important;border:1px dotted #3A3A3A;background:#d5d5d5 url(img/anchor.gif) no-repeat center}.mce-nbsp{background:#AAA}hr{cursor:default}.mce-match-marker{background:#AAA;color:#fff}.mce-match-marker-selected{background:#3399ff;color:#fff}.mce-spellchecker-word{border-bottom:2px solid #F00;cursor:default}.mce-spellchecker-grammar{border-bottom:2px solid #008000;cursor:default}.mce-item-table,.mce-item-table td,.mce-item-table th,.mce-item-table caption{border:1px dashed #BBB}td.mce-item-selected,th.mce-item-selected{background-color:#3399ff !important}.mce-edit-focus{outline:1px dotted #333}
+
+

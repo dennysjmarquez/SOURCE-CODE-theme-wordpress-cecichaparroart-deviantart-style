@@ -1,0 +1,7 @@
+img#emoca, img.wp-smiley{
+	height: auto !important;
+	max-height:22px !important;
+	max-width:22px !important;
+	margin-left:2px;
+	margin-right:2px;
+}

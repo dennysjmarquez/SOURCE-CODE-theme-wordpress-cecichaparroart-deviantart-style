@@ -1,0 +1,1 @@
+<div class="tinythumb scaledown" style="background-image:url(<?php echo thb_get_post_thumbnail_src(get_the_ID(), 'thumb-300'); ?>);"></div>

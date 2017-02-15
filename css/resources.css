@@ -1,0 +1,18 @@
+
+
+
+@font-face {
+	font-family: 'icons';
+	src:url("f/icons.eot");
+	src:url("f/icons.eot?#iefix") format("embedded-opentype"),
+		url("f/icons.ttf") format("truetype");
+	font-weight: normal;
+	font-style: normal;
+}
+
+[data-icon]:before {
+	font-family: 'icons';
+	content: attr(data-icon);
+	speak: none;
+	text-transform: none;
+}
